@@ -1,0 +1,1 @@
+Prototipo visual de referencia del objetivo de UI. NO implementar durante las Fases 1-3. Se aplicará como paquete de estilo en Fase 4 (item PB-30 del backlog). Hasta entonces la UI usa Material3 neutro con tokens de tema centralizados en ui/theme (Color.kt, Type.kt, Theme.kt); prohibido hardcodear colores o tamaños dentro de composables.
